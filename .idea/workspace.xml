@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52a0e5f0-429d-4e0f-a409-fcc4ddb8f2e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SK12-automation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lecture4/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture4/Exercise4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture4/Exercise5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture4/Exercise6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture4/Exercise7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,9 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2bsC2O3ACS0YIM9pQZ4c4wE7Vw3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,6 +40,11 @@
   "keyToString": {
     "Application.Exercise1.executor": "Run",
     "Application.Exercise2.executor": "Run",
+    "Application.Exercise3.executor": "Run",
+    "Application.Exercise4.executor": "Run",
+    "Application.Exercise5.executor": "Run",
+    "Application.Exercise6.executor": "Run",
+    "Application.Exercise7.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
