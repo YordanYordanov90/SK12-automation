@@ -1,0 +1,36 @@
+ISkillo icon -     #homeIcon - ID
+                  //*[@id="homeIcon"] - XP
+                  /html/body/app-root/div["_ngcontent-skw-c1"]/app-header/header/nav/div/a/img - Full XP
+                  img[alt='homeIcon']
+                  img[src*='Iskillo-logo.png'] - link
+                  a.navbar-brand
+
+                  //div/a[@class="navbar-brand"]
+
+Home button -     #nav-link-home - ID
+                  //*[@id="nav-link-home"] - XP
+                  //div/ul[@_ngcontent-skw-c1]/li/a[@href="/posts/all"]
+                  //a [text()="Home"]
+                  a.nav-link[href="/posts/all"]
+
+                  //div/ul/li[@class='nav-item active']/a[text()='Home']
+
+Login -           //*[@id="nav-link-login]
+                  #nav-link-login
+                  //a[text()="Login"]
+                  a.nav-link[href="/users/login"]
+                  //div/ul[@_ngcontent-skw-c1]/li/a[@href="/users/login"]
+
+                  //div/ul/li/a[@id="nav-link-login"]
+
+100yan_qa1 
+element            div:nth-child(1) > app-post-detail > div > app-small-user-profile > div > div.col-6.post-profile-img > a -css
+                  //div/app-small-user-profile/div/div[a/@href="/users/5433"]
+                  /html/body/app-root/div[2]/app-all-posts/div/div/div[1]/app-post-detail/div/app-small-user-profile/div/div[1]/a - Full XP
+                  a.post-user[href="/users/5433"] - class
+                  //a[text()="100yan_qa1"] - text
+
+First image       div[@class="post-feed-img"]/img[@src="https://i.imgur.com/vTwfHZh.jpeg"]
+                  //div["_ngcontent-skw-c5"]/app-post-detail/div/div["https://i.imgur.com/vTwfHZh.jpeg"]/img
+                  /html/body/app-root/div/app-all-posts/div/div/div/div[@class='post-feed-img']/img[@src='https://i.imgur.com/vTwfHZh.jpeg']
+                  div.post-feed-img > img[src="https://i.imgur.com/vTwfHZh.jpeg"]
